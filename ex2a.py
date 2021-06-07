@@ -12,4 +12,5 @@ result_ex2 = Integral(function_ex2, (x, 1, 2))
 
 
 #printing integral
+print("RESULTADO INTEGRAL: ")
 print(result_ex2.doit())
